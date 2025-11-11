@@ -9,8 +9,8 @@ public class OgApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(OgApplication.class, args);
 
-
         System.out.println("hello mate");
+        System.out.println("damn son");
 	}
 
 }
